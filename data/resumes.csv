@@ -1,0 +1,297 @@
+name,resume_text,experience_years
+Aarav Sharma,"Experienced Machine Learning Engineer with 5 years in Python and deep learning.
+        Proficient in scikit-learn, TensorFlow, PyTorch, and Keras for model development.
+        Strong NLP skills including text classification, named entity recognition.
+        Used pandas, numpy, matplotlib, seaborn for data analysis and visualization.
+        Experience with SQL databases, Git, GitHub version control, REST APIs.
+        Deployed ML models on AWS and Google Cloud platforms.
+        Built computer vision projects using OpenCV and convolutional neural networks.
+        Expert in data preprocessing, feature engineering, and model evaluation.
+        Jupyter Notebook, VS Code for development. Strong statistics and linear algebra background.",5
+Priya Patel,"Senior ML Engineer with 6 years experience in machine learning and NLP.
+        Deep expertise in Python, TensorFlow, PyTorch, scikit-learn, and Keras.
+        Developed NLP pipelines for sentiment analysis, text classification, summarization.
+        Worked extensively with pandas, numpy, seaborn, matplotlib for EDA.
+        Deployed models using AWS SageMaker and Google Cloud AI Platform.
+        Strong background in statistics, probability, and linear algebra.
+        Used Git, GitHub for version control and collaborative development.
+        Experience with REST APIs, SQL, computer vision using OpenCV.
+        Jupyter Notebook power user. Model deployment and optimization expert.",6
+Rohit Verma,"Machine Learning Researcher with 4 years Python and deep learning experience.
+        Built models using scikit-learn, TensorFlow, PyTorch for classification and regression.
+        Specialized in NLP: tokenization, embeddings, transformers, BERT fine-tuning.
+        Data analysis with pandas, numpy, matplotlib, seaborn. SQL for data extraction.
+        GitHub for version control. Jupyter Notebook for research and experimentation.
+        Statistics, probability, linear algebra fundamentals strong.
+        AWS deployment experience. REST API development using Flask and FastAPI.
+        Computer vision projects using OpenCV and YOLO object detection.",4
+Sneha Gupta,"Data Scientist with 3 years in machine learning and Python programming.
+        Scikit-learn expert for classification, regression, clustering algorithms.
+        NLP projects using NLTK, spaCy, transformers, TF-IDF, word embeddings.
+        pandas, numpy, matplotlib, seaborn daily tools for data preprocessing.
+        SQL queries for database management. Git, GitHub for code management.
+        Jupyter Notebook for analysis. Statistics and probability knowledge strong.
+        Model deployment on Google Cloud. REST APIs using Flask.
+        Linear algebra, calculus background. Feature engineering specialist.",3
+Vikram Singh,"ML Engineer 5 years experience. Python expert. scikit-learn, TensorFlow, PyTorch.
+        Deep learning: CNN, RNN, LSTM, Transformer architectures built from scratch.
+        NLP pipeline development. Computer vision using OpenCV, YOLO, ResNet.
+        pandas, numpy, matplotlib used daily. SQL, NoSQL databases. AWS deployment.
+        GitHub, Git version control. REST API, microservices architecture.
+        Jupyter Notebook, Google Colab. Statistics, linear algebra, probability.
+        Model optimization, hyperparameter tuning, cross validation expert.
+        Data preprocessing, feature selection, dimensionality reduction experience.",5
+Ananya Krishnan,"AI/ML Engineer with 4 years building production machine learning systems.
+        Python, scikit-learn, TensorFlow, Keras, PyTorch for model development.
+        NLP: sentiment analysis, text classification, named entity recognition projects.
+        Deep learning computer vision with OpenCV and convolutional neural networks.
+        pandas, numpy, seaborn, matplotlib for exploratory data analysis.
+        AWS SageMaker, Google Cloud for model training and deployment.
+        SQL for data querying. Git, GitHub, REST APIs. Jupyter Notebook.
+        Statistics, probability, linear algebra. Model evaluation and monitoring.",4
+Arjun Mehta,"Machine Learning Developer 3 years. Python scikit-learn TensorFlow PyTorch.
+        NLP text mining information extraction sentiment analysis topic modeling.
+        Computer vision image classification object detection using OpenCV Keras.
+        Data preprocessing feature engineering dimensionality reduction PCA.
+        pandas numpy matplotlib seaborn data visualization dashboard creation.
+        SQL database management. Git GitHub REST API development Flask.
+        AWS cloud deployment. Jupyter Notebook. Statistics probability linear algebra.
+        Model deployment monitoring retraining pipeline automation.",3
+Kavya Nair,"Senior Data Scientist 5 years machine learning Python deep learning NLP.
+        TensorFlow PyTorch scikit-learn Keras model development fine tuning.
+        Natural language processing BERT GPT transformers text classification.
+        Computer vision OpenCV image segmentation object detection.
+        pandas numpy matplotlib seaborn plotly interactive visualization.
+        AWS Google Cloud model deployment REST API Flask FastAPI.
+        SQL NoSQL Git GitHub Jupyter Notebook statistics linear algebra probability.
+        Feature engineering model evaluation cross validation hyperparameter optimization.",5
+Rahul Joshi,"ML Engineer with expertise in Python machine learning and deep learning systems.
+        scikit-learn TensorFlow PyTorch Keras for classification regression clustering.
+        NLP pipeline NLTK spaCy transformers BERT text preprocessing tokenization.
+        Data analysis pandas numpy seaborn matplotlib exploratory data analysis.
+        Model deployment AWS Google Cloud REST API microservices Docker Kubernetes.
+        Git GitHub version control SQL database querying Jupyter Notebook development.
+        Statistics probability linear algebra calculus optimization algorithms.
+        Computer vision OpenCV CNN feature extraction transfer learning.",4
+Deepika Rao,"Applied ML Scientist 6 years Python TensorFlow PyTorch scikit-learn Keras.
+        NLP deep learning computer vision model deployment production systems.
+        Built recommendation systems fraud detection systems anomaly detection models.
+        pandas numpy matplotlib seaborn data preprocessing feature engineering.
+        AWS SageMaker Google Cloud AI Platform model training deployment scaling.
+        SQL Git GitHub REST API Jupyter Notebook statistics probability linear algebra.
+        Computer vision OpenCV image classification segmentation detection.
+        Research experience published papers machine learning optimization.",6
+Amit Kumar,"Data Analyst with 2 years experience in Python and machine learning basics.
+        Used scikit-learn for simple classification models. pandas numpy for analysis.
+        Basic NLP text preprocessing using NLTK. matplotlib seaborn visualization.
+        SQL for data extraction. Git GitHub basics. Jupyter Notebook daily use.
+        Statistics and probability knowledge. Basic linear algebra understanding.
+        Learning TensorFlow and deep learning. No cloud deployment experience yet.",2
+Neha Agarwal,"Python Developer with machine learning interest. 2 years experience.
+        scikit-learn models: decision tree, random forest, logistic regression.
+        pandas numpy data manipulation. matplotlib visualization. SQL queries.
+        Basic NLP using NLTK tokenization stopword removal. Jupyter Notebook.
+        Git GitHub. Statistics fundamentals. Learning PyTorch deep learning.
+        No production deployment experience. REST API basics with Flask.",2
+Siddharth Roy,"Junior ML Engineer fresher. Python scikit-learn pandas numpy matplotlib.
+        Academic projects in machine learning: classification regression clustering.
+        NLP basics: text preprocessing TF-IDF bag of words sentiment analysis.
+        Jupyter Notebook. Git GitHub basics. Statistics probability fundamentals.
+        Learning TensorFlow deep learning neural networks. SQL basic queries.
+        No real world deployment experience yet. Eager to learn and grow.",0
+Pooja Mishra,"Data Science student with Python machine learning projects. Final year.
+        scikit-learn classification models. pandas numpy data analysis. matplotlib.
+        Basic NLP text classification using NLTK and scikit-learn TF-IDF.
+        Jupyter Notebook. Statistics. Git GitHub. SQL basic knowledge.
+        Kaggle competitions participant. Learning deep learning TensorFlow.
+        Academic projects only. No industry experience. Strong fundamentals.",0
+Karan Malhotra,"Software Engineer transitioning to ML. 3 years software development.
+        Python scripting. Basic scikit-learn models. pandas numpy data manipulation.
+        REST API development Flask Django. SQL databases. Git GitHub expert.
+        Learning machine learning NLP deep learning TensorFlow PyTorch.
+        Statistics probability basics. Jupyter Notebook. No ML production experience.",3
+Riya Sharma,"ML enthusiast with 1 year Python experience. Academic ML projects.
+        scikit-learn basic models. pandas numpy matplotlib seaborn. Jupyter Notebook.
+        NLP text preprocessing basics NLTK. Statistics fundamentals. Git GitHub.
+        SQL basic queries. Learning TensorFlow Keras deep learning computer vision.
+        Kaggle datasets practice. No industry experience. Fast learner.",1
+Tarun Gupta,"Data Analyst 2 years. Python pandas numpy matplotlib seaborn SQL expert.
+        Basic machine learning scikit-learn models for prediction. Jupyter Notebook.
+        Statistics probability strong. Git GitHub. Basic NLP text analysis.
+        No deep learning experience. No cloud deployment. REST API basics.
+        Transitioning from pure analytics to machine learning engineering.",2
+Meera Iyer,"Research Assistant ML lab 1.5 years. Python scikit-learn TensorFlow basics.
+        Academic NLP projects text classification sentiment analysis NLTK spaCy.
+        pandas numpy matplotlib data analysis. Jupyter Notebook. Git GitHub.
+        Statistics linear algebra probability strong academic background.
+        Learning PyTorch deep learning. SQL basics. No deployment experience.",1
+Nikhil Bansal,"Python Developer 2 years with data science skills. pandas numpy matplotlib.
+        scikit-learn machine learning models. Basic NLP preprocessing NLTK.
+        SQL database queries. Git GitHub version control. Jupyter Notebook.
+        Statistics basics. Learning TensorFlow deep learning. REST API Flask.
+        No cloud experience. No computer vision. Solid Python fundamentals.",2
+Priyanka Das,"Business Analyst with Python and ML skills. 2 years experience.
+        pandas numpy data manipulation analysis. matplotlib seaborn visualization.
+        scikit-learn basic models for business prediction tasks. SQL expert.
+        Statistics probability strong. Jupyter Notebook. Git GitHub.
+        Basic NLP text analysis. Learning machine learning deeper concepts.
+        No deep learning. No deployment. Business domain knowledge strong.",2
+Suresh Reddy,"Python Developer 3 years. pandas numpy matplotlib seaborn expert.
+        Data analysis visualization dashboards. SQL databases expert. Git GitHub.
+        Basic scikit-learn machine learning. Statistics probability strong.
+        Jupyter Notebook. REST API Flask. Basic NLP preprocessing.
+        No deep learning TensorFlow PyTorch experience. No cloud deployment.",3
+Anjali Singh,"Data Engineer 3 years Python SQL ETL pipelines data warehousing.
+        pandas numpy data transformation. matplotlib basic visualization.
+        SQL expert. Git GitHub. Basic statistics. Jupyter Notebook basics.
+        Learning machine learning scikit-learn basics. No NLP no deep learning.
+        AWS basics for data pipelines. REST API. No ML model experience.",3
+Manish Tiwari,"Statistics graduate Python R programming. pandas numpy scipy statsmodels.
+        Statistical modeling hypothesis testing regression analysis. matplotlib seaborn.
+        SQL queries. Jupyter Notebook. Git basics. No deep learning no NLP.
+        Basic scikit-learn linear regression logistic regression. Statistics expert.
+        Learning machine learning. No production deployment. Academic experience.",3
+Divya Kapoor,"Data Visualization Specialist 2 years. matplotlib seaborn plotly tableau.
+        Python pandas numpy for data manipulation. SQL databases. Jupyter Notebook.
+        Git GitHub basics. Statistics fundamentals. Basic scikit-learn machine learning.
+        No NLP no deep learning no cloud deployment. Visualization expert.
+        Learning machine learning and Python deeper concepts.",2
+Rajesh Kumar,"Backend Developer Python 4 years. Django Flask REST API SQL NoSQL.
+        Git GitHub Docker Kubernetes AWS deployment. Python expert.
+        No machine learning no NLP no deep learning experience.
+        Statistics basics. Jupyter Notebook never used. pandas basic knowledge.
+        Transitioning to ML engineering. Strong software engineering background.",4
+Sunita Yadav,"Research Analyst 3 years Python R statistics data analysis.
+        pandas numpy matplotlib statistical analysis reports. SQL. Jupyter Notebook.
+        Git GitHub. Statistics probability linear algebra strong academic background.
+        Basic scikit-learn. No deep learning. No NLP. No cloud deployment.
+        Academic research publications. Learning machine learning fundamentals.",3
+Aditya Patel,"Computer Science fresher with Python machine learning projects.
+        scikit-learn basic classification regression. pandas numpy matplotlib.
+        Basic NLP NLTK text preprocessing. Jupyter Notebook. Git GitHub. SQL basics.
+        Statistics probability fundamentals. Learning TensorFlow deep learning.
+        Kaggle competitions. No industry experience. Strong coding skills.",0
+Nisha Jain,"MBA graduate with data analytics Python skills. pandas numpy matplotlib.
+        SQL expert. Statistics probability strong. Basic scikit-learn machine learning.
+        Jupyter Notebook. Git basics. Business intelligence tableau power BI.
+        No NLP no deep learning no cloud. Learning machine learning for business.
+        Domain knowledge in finance and marketing. No programming depth.",2
+Vivek Sharma,"IoT Engineer 3 years Python embedded systems data collection.
+        pandas numpy basic data analysis. matplotlib visualization. SQL basics.
+        Git GitHub. REST APIs. AWS IoT services. Basic statistics.
+        No machine learning no NLP no deep learning. Sensor data experience.
+        Transitioning to ML engineering for IoT applications.",3
+Pallavi Gupta,"QA Engineer 3 years Python automation testing. pytest selenium.
+        Basic Python scripting. Git GitHub. SQL database testing. REST API testing.
+        No machine learning no NLP no data science experience.
+        Statistics basics. Learning Python data science pandas numpy.
+        Transitioning career to data science and machine learning.",3
+Ramesh Nair,"Full Stack Developer 4 years JavaScript React Node.js Python basics.
+        HTML CSS REST API development. Git GitHub Docker. SQL NoSQL databases.
+        AWS deployment. No machine learning no NLP no data science.
+        Statistics basics only. No pandas numpy matplotlib scikit-learn.
+        Transitioning to backend Python development. No ML experience.",4
+Geeta Pillai,"Frontend Developer 3 years React Angular JavaScript TypeScript.
+        HTML CSS UI/UX design. Git GitHub. REST API consumption. SQL basics.
+        No Python no machine learning no data science no NLP.
+        No statistics no linear algebra. Design skills strong. No ML relevance.",3
+Harish Menon,"DevOps Engineer 4 years AWS Docker Kubernetes CI/CD pipelines.
+        Linux shell scripting Python basics. Git GitHub. REST APIs. SQL basics.
+        Infrastructure automation. No machine learning no data science no NLP.
+        Statistics basics. No pandas numpy scikit-learn TensorFlow PyTorch.",4
+Lakshmi Rao,"Java Developer 5 years Spring Boot microservices REST APIs SQL.
+        Git GitHub Maven Jenkins CI/CD. No Python no machine learning.
+        No data science no NLP no deep learning. Strong Java OOP skills.
+        Statistics basics. Transitioning to Python but no ML experience yet.",5
+Sunil Verma,"Android Developer 3 years Java Kotlin mobile app development.
+        REST API integration. Git GitHub. SQL local database. No Python.
+        No machine learning no data science no NLP no statistics.
+        Strong mobile development. No relevance to ML role at all.",3
+Rekha Singh,"HR Manager 5 years recruitment talent acquisition people management.
+        Excel data analysis. PowerPoint presentations. Basic statistics.
+        No Python no machine learning no data science no programming.
+        Communication and leadership skills. No technical ML skills.",5
+Manoj Kumar,"Network Engineer 4 years Cisco networking CCNA CCNP certification.
+        Linux administration Python basic scripting. Git basics. SQL basics.
+        No machine learning no data science no NLP no pandas numpy.
+        Statistics basics. Infrastructure knowledge. No ML experience.",4
+Shweta Patel,"Content Writer 3 years technical writing documentation SEO.
+        No programming no Python no machine learning no data science.
+        Excel basics. WordPress. Communication skills strong.
+        No technical skills relevant to ML role.",3
+Dinesh Joshi,"Graphic Designer 4 years Adobe Photoshop Illustrator UI/UX design.
+        No Python no programming no machine learning no data science.
+        Creative skills. No technical ML relevance whatsoever.",4
+Asha Mehta,"Sales Manager 6 years B2B sales CRM Salesforce customer relations.
+        Excel data analysis. No Python no programming no machine learning.
+        Communication negotiation skills. No technical ML skills at all.",6
+Kartik Sharma,"Computer Science final year. Python pandas numpy matplotlib scikit-learn.
+        Machine learning course completed Coursera Andrew Ng certification.
+        Basic NLP NLTK text preprocessing. Jupyter Notebook. Git GitHub. SQL basics.
+        Statistics probability linear algebra fundamentals. Learning TensorFlow.
+        Kaggle beginner. Internship projects machine learning classification.",0
+Bhavna Agarwal,"Data Science bootcamp graduate. Python scikit-learn pandas numpy matplotlib.
+        Machine learning algorithms classification regression clustering.
+        Basic NLP text analysis NLTK. Jupyter Notebook. Git GitHub. SQL basics.
+        Statistics probability. Learning deep learning TensorFlow PyTorch.
+        Portfolio projects on GitHub. No industry experience. Motivated learner.",0
+Yash Malhotra,"BTech Computer Science 2024. Python machine learning projects academic.
+        scikit-learn pandas numpy matplotlib seaborn. Jupyter Notebook. Git GitHub.
+        NLP basics sentiment analysis text classification NLTK TF-IDF.
+        Statistics linear algebra probability. SQL. Learning TensorFlow Keras.
+        Kaggle competitions silver medal. Academic excellence. No work experience.",0
+Kritika Roy,"MSc Data Science graduate. Python R pandas numpy scipy matplotlib.
+        scikit-learn machine learning. Statistics probability linear algebra strong.
+        Basic NLP text mining NLTK. Jupyter Notebook. Git GitHub. SQL.
+        Thesis on predictive modeling. Learning TensorFlow deep learning.
+        Research publications. Academic projects. No industry experience.",0
+Ishaan Gupta,"AI enthusiast self taught. Python TensorFlow PyTorch basics scikit-learn.
+        pandas numpy matplotlib. NLP basics NLTK text classification projects.
+        Jupyter Notebook. Git GitHub. Statistics probability learning.
+        SQL basics. Online courses Coursera Udemy deep learning. Kaggle active.
+        No formal education in CS. Strong self learning motivation.",0
+Tanvi Nair,"Engineering student final semester. Python pandas numpy matplotlib.
+        scikit-learn basic models. Machine learning minor project done.
+        NLTK basic NLP. Jupyter Notebook. Git GitHub. SQL basics. Statistics.
+        Learning deep learning. Coursera ML certification. Kaggle beginner.
+        No work experience. Academic projects portfolio on GitHub.",0
+Akash Verma,"Recent graduate BSc Statistics. Python R pandas numpy scipy matplotlib.
+        Statistics probability linear algebra expert academic background.
+        Basic scikit-learn machine learning. SQL. Jupyter Notebook. Git basics.
+        Basic NLP. Learning TensorFlow PyTorch deep learning. No industry experience.
+        Statistical modeling hypothesis testing regression analysis strength.",0
+Shruti Patel,"Fresher MCA graduate. Python pandas numpy matplotlib scikit-learn basics.
+        Machine learning course project classification sentiment analysis NLTK.
+        Jupyter Notebook. Git GitHub. SQL. Statistics probability fundamentals.
+        Learning deep learning TensorFlow. REST API Flask basics.
+        No work experience. Internship at small startup Python development.",0
+Kunal Singh,"BCA graduate with data science interest. Python basics pandas numpy.
+        scikit-learn very basic. matplotlib visualization. Jupyter Notebook.
+        Git basics. SQL. Statistics basic. No NLP no deep learning no cloud.
+        Learning machine learning from scratch. Online courses in progress.
+        Very limited ML knowledge. Beginner level overall.",0
+Manya Joshi,"Class 12 pass with Python hobby projects. Basic Python programming.
+        No machine learning no pandas no numpy no scikit-learn experience.
+        YouTube tutorials Python basics only. No statistics no SQL no Git.
+        Not qualified for ML role at all. Very early stage learner.",0
+Vinod Reddy,"Senior Data Analyst 4 years Python pandas numpy matplotlib seaborn SQL.
+        Statistical analysis hypothesis testing A/B testing experiments.
+        Basic scikit-learn regression models for forecasting. Jupyter Notebook.
+        Git GitHub. Tableau PowerBI dashboards. Statistics probability expert.
+        Basic NLP text analysis. No deep learning. No cloud deployment.",4
+Smita Kumar,"Business Intelligence Analyst 3 years SQL Tableau Python pandas numpy.
+        matplotlib seaborn data visualization reports. Statistics expert.
+        Basic scikit-learn. Jupyter Notebook. Git GitHub. REST API basics.
+        No NLP no deep learning no machine learning depth. Analytics focus.",3
+Prakash Rao,"Data Analyst 2 years Python pandas numpy matplotlib SQL tableau.
+        Basic statistics. Jupyter Notebook. Git basics. scikit-learn very basic.
+        No NLP no deep learning no cloud deployment. Analytics role experience.
+        Excel expert. PowerPoint reporting. Business domain knowledge.",2
+Jyoti Sharma,"Marketing Analyst 2 years Google Analytics Python basics Excel SQL.
+        pandas basic data manipulation. matplotlib basic charts. Statistics basics.
+        No machine learning no NLP no deep learning no scikit-learn depth.
+        Business intelligence focus. Learning Python data science.",2
+Naveen Patel,"Financial Analyst 3 years Python pandas numpy Excel SQL finance domain.
+        Statistical modeling for finance. matplotlib seaborn charts. Jupyter Notebook.
+        Git GitHub. Basic scikit-learn regression. Statistics probability expert.
+        No NLP no deep learning no cloud. Finance domain expertise strong.",3
